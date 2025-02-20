@@ -1,5 +1,5 @@
 
-import tkinter as tk
+import tkinter as 
 import random
 import string
 
