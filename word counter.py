@@ -1,4 +1,4 @@
-import tkinter as tk
+
 
 def NumberOfStrings():
     entered_text = textEntry.get('1.0','end-1c')
