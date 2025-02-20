@@ -1,6 +1,6 @@
 
 import tkinter as tk
-import random
+import rando
 import string
 
 def generate_password(length):
